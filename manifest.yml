@@ -1,0 +1,8 @@
+---
+applications:
+- name: CyberClazServer
+  memory: 512M
+  host: cyberclaz
+  domain: au-syd.mybluemix.net
+  services:
+  - ClearDB Managed MySQL Database-1r
